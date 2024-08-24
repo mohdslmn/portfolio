@@ -75,7 +75,7 @@ export const projects = [
     title: "A WireFraming App",
     des: "Explore the WireFraming Application to design the web products using NextJS and TypeScript",
 
-    img: "/FigPro.png",
+    img: "/FrameFroge.png",
     iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/vercelf.svg", "/fm.svg"],
     link: "https://figma-clone-drab.vercel.app/",
   },
@@ -176,20 +176,20 @@ export const workExperience = [
   {
     id: 2,
     title: "Mobile Chat App Using Flutter",
-    desc: "Designed and developed mobile app for  Android platforms using Flutter.",
-    className: "md:col-span-2", // change to md:col-span-2
+    desc: "Designed and developed mobile app for  Android platforms using Flutter and strapi.",
+    className: "md:col-span-2", 
     thumbnail: "/exp2.svg",
   },
   {
     id: 3,
     title: "Freelance App Dev Project",
-    desc: "Led the dev of a mobile app for a client, from initial concept to deployment .",
-    className: "md:col-span-2", // change to md:col-span-2
+    desc: "Led the dev of a web app for a client, from initial concept to deployment .",
+    className: "md:col-span-2",
     thumbnail: "/exp3.svg",
   },
   {
     id: 4,
-    title: "Lead Frontend Developer",
+    title: "Freelance Frontend Developer",
     desc: "Developed and maintained user-facing features using modern frontend technologies.",
     className: "md:col-span-2",
     thumbnail: "/exp4.svg",
